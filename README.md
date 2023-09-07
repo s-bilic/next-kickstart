@@ -2,7 +2,8 @@
 
 - eslint
 - typescript
-- tailwind
+- tailwind (CSS framework)
+- nextUI (UI library based on tailwind, make use of pre-defined components)
 - folder structure
 - config
 - import alias using '@components' i.e.

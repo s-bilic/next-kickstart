@@ -1,5 +1,12 @@
 # Clone this project and you are ready to go (next.js kickstart)
 
+- eslint
+- typescript
+- tailwind
+- folder structure
+- config
+- import alias using '@components' i.e.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

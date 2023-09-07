@@ -1,4 +1,4 @@
-# Clone this project and you are ready to go (next.js kickstart)
+# Kickstart your next.js project by cloning this repo
 
 - eslint
 - typescript
